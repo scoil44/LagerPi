@@ -1,0 +1,15 @@
+/*CSS for things that need it!*/
+
+.device_On {
+	background: #3f3;
+}
+
+.device_Off {
+	background: #f33;
+}
+
+/*	QuickGraphs are those found on the first page! */
+.quickGraph {
+	min-height:220px;
+	padding: 0;
+}
